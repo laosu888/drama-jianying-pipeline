@@ -1,0 +1,4 @@
+interface:
+  display_name: "短剧剪映成片流程"
+  short_description: "先确认片名水印与每集素材，再按各剧剧情风格完成剪映后期、封面标题和成片验收"
+  default_prompt: "用 $drama-jianying-pipeline 先确认本剧片名、水印和交付要求，收到并确认本集镜头素材后，再完成剪映剪辑与验收。"
