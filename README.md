@@ -34,6 +34,7 @@ git clone https://github.com/laosu888/drama-jianying-pipeline.git
     agents/openai.yaml
     assets/项目剪辑设定.md
     assets/发布文案.md
+    references/bgm-sfx-library.md
     references/craft-and-acceptance.md
     references/jianying-runtime.md
     references/publishing-delivery.md
@@ -72,3 +73,9 @@ Skill 格式与项目级发现路径依据 [OpenAI 官方技能文档](https://l
 ## 开源许可
 
 本仓库的工作流说明和模板使用 [MIT License](LICENSE)。外部工具及用户素材遵循各自许可。
+
+## 版本
+
+当前版本：**v1.1.0**（见 [CHANGELOG](CHANGELOG.md)）。
+- v1.1.0：新增 [BGM与音效库](skills/drama-jianying-pipeline/references/bgm-sfx-library.md)（热门短剧BGM按题材与情绪关键词分类、音效三层架构、0.2秒重音规则、版权来源规则），并加入水印/人物介绍/字卡的精品包装规范；每集必须有BGM和音效。
+
